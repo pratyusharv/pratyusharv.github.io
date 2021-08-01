@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Pratyusha Valluru"
+title: "About Me"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Lorem Ipsum dolor sit amet
----
+## Subheading
+Lorem Ipsum Dolor sit amet
+
+
 
