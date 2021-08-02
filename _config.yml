@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Theme Settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-skin: "aqua"
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "aqua"
 
 # Site Settings
 locale                   : "en-US"
