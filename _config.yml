@@ -6,7 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Theme Settings
-theme                    : cayman
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+skin: "aqua"
 
 # Site Settings
 locale                   : "en-US"
@@ -269,6 +270,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-remote-theme
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
