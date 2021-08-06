@@ -12,24 +12,26 @@ redirect_from:
 # Education
 * Integrated M.A. in Economics, University of Hyderabad, 2023
 
-# Skills
-### Technical:
+# Skills  
+
+## Technical:
 * Python
 * Tableau
 * Stata
 * Advanced Excel
 
-### Other:
+## Other:
 * Content Writing
 * Persuasive Writing
 * Presentation Skills
 
-### Languages:
+## Languages:
 * Telugu
 * Hindi
 * English
 
-# Work Experience
+# Work Experience  
+
 ## Sakonsa:
 July 2021 - Present, _Remote_
   * Working with a team of legal and economic interns to author a data-driven research paper on the impact of 
@@ -55,7 +57,8 @@ November 2020 - February 2021, _Visakhapatnam, Andhra Pradesh_
     scheme of Andhra Pradesh Government which provides a marketing platforms for products  
     made by Self help group members.
 
-# Positions of Responsibility:
+# Positions of Responsibility:  
+
 ### Global Action Ambassador:
 _January, 2019 - January, 2020_ <br>
 Undertook advocacy responsibilities as part of this status awarded by Studec International and Youth Now (Partner
