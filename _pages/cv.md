@@ -11,19 +11,34 @@ redirect_from:
 
 Education
 ======
-* M.A. in Economics, UoH
+* Integrated M.A. in Economics, University of Hyderabad, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Sakonsa:
+July 2021 - Present, _Remote_
+  * Working with a team of legal and economic interns to author a data-driven research paper on the impact of 
+    ”Protection of Children from Sexual Offences (POCSO) Act, 2012”.
+  * Currently preparing literature reviews of existing research and analyzing the pattern of POCSO cases to identify 
+    gaps in research.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Society for Elimination of Rural Poverty:
+April 2021 - June 2021, _Visakhapatnam, Andhra Pradesh_
+  * Prepared questionnaire for field surveys conducted for impact assessment of **Bank Linkage** scheme of Andhra 
+    Pradesh Government which enables Self Help Group members get access to low interest loans and empowers
+    them to pursue income generating activities.
+  * Prepared briefs for weekly meetings by developing insights from cleaning large data sets on excel regarding the  
+    implementation of activities of **Stree Nidhi** program of Andhra Pradesh Government which includes rising  
+    loans from commercial banks to provide short term business loans and loans for financial exigencies to and Self Help Group members.
+    
+## District Rural Development Agency:
+November 2020 - February 2021, _Visakhapatnam, Andhra Pradesh_
+  * Compiled reports and provided administrative and assistance for the implementation of different **Pension  
+    Schemes** for transgender community, unmarried or divorced single women, widows, fishermen, weavers, disabled  
+    and senior citizens
+  * Drafted notes, policy briefs and prepared presentations for meetings regarding the implementation of **Rural Retail Chain**
+    scheme of Andhra Pradesh Government which provides a marketing platforms for products  
+    made by Self help group members.
   
 Skills
 ======
