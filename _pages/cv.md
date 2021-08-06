@@ -59,26 +59,26 @@ November 2020 - February 2021, _Visakhapatnam, Andhra Pradesh_
 
 # Positions of Responsibility:  
 
-### Global Action Ambassador:
+## Global Action Ambassador:
 _January, 2019 - January, 2020_ <br>
 Undertook advocacy responsibilities as part of this status awarded by Studec International and Youth Now (Partner
 of UN habitat) at Global Goals Summit in Kuala Lumpur, Malaysia on 22nd January, 2019.Trained a team and
 conducted awareness sessions about UN sustainable development goals in government schools and low-cost private schools.
  
-### Content Writer for UoH Student's Union:
+## Content Writer for UoH Student's Union:
 _September, 2018 - February, 2019_ <br>
-Researched and wrote content for informative posters for Students’ Union at University of Hyderabad on various  
-political and administrative issues pertaining to campus life and in general.
+* Researched and wrote content for informative posters for Students’ Union at University of Hyderabad on various  
+  political and administrative issues pertaining to campus life and in general.
 
-### Teaching Volunteer at eVidyaloka
+## Teaching Volunteer at eVidyaloka
 _Academic Year 2020 - 2021_ <br>
-Taught English to government school students from rural areas on Skype during the pandemic year as a volunteer at
-eVidyaloka, an educational social enterprise working towards improving the quality of education in remote and rural
-villages of India.
+* Taught English to government school students from rural areas on Skype during the pandemic year as a volunteer at
+  eVidyaloka, an educational social enterprise working towards improving the quality of education in remote and rural
+  villages of India.
 
 ### Teaching Volunteer at Turn the Bus
 _Present_ <br>
-Developing videos on economics and history for underprivileged high school students in the state of Bihar.
+* Developing videos on economics and history for underprivileged high school students in the state of Bihar.
 
 # Scholastic Achievements:
 * Been awarded partial scholarship to pursue a dual degree at Asia Pacific University, Malaysia and Staffordshire
