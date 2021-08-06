@@ -9,12 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+# Education
 * Integrated M.A. in Economics, University of Hyderabad, 2023
 
-Work experience
-======
+# Skills
+### Technical:
+* Python
+* Tableau
+* Stata
+* Advanced Excel
+
+### Other:
+* Content Writing
+* Persuasive Writing
+* Presentation Skills
+
+### Languages:
+* Telugu
+* Hindi
+* English
+
+# Work Experience
 ## Sakonsa:
 July 2021 - Present, _Remote_
   * Working with a team of legal and economic interns to author a data-driven research paper on the impact of 
@@ -39,18 +54,38 @@ November 2020 - February 2021, _Visakhapatnam, Andhra Pradesh_
   * Drafted notes, policy briefs and prepared presentations for meetings regarding the implementation of **Rural Retail Chain**
     scheme of Andhra Pradesh Government which provides a marketing platforms for products  
     made by Self help group members.
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
+# Positions of Responsibility:
+### Global Action Ambassador:
+_January, 2019 - January, 2020_
+Undertook advocacy responsibilities as part of this status awarded by Studec International and Youth Now (Partner
+of UN habitat) at Global Goals Summit in Kuala Lumpur, Malaysia on 22nd January, 2019.Trained a team and
+conducted awareness sessions about UN sustainable development goals in government schools and low-cost private schools.
+ 
+### Content Writer for UoH Student's Union:
+_September, 2018 - February, 2019_
+Researched and wrote content for informative posters for Students’ Union at University of Hyderabad on various  
+political and administrative issues pertaining to campus life and in general.
+
+### Teaching Volunteer at eVidyaloka
+_Academic Year 2020 - 2021_
+Taught English to government school students from rural areas on Skype during the pandemic year as a volunteer at
+eVidyaloka, an educational social enterprise working towards improving the quality of education in remote and rural
+villages of India.
+
+### Teaching Volunteer at Turn the Bus
+_Present_
+Developing videos on economics and history for underprivileged high school students in the state of Bihar.
+
+# Scholastic Achievements:
+* Been awarded partial scholarship to pursue a dual degree at Asia Pacific University, Malaysia and Staffordshire
+  University (United Kingdom) in recognition of project work done at Global Goals Summit,2019.
+* Secured all India rank of 26 in entrance examination for Integrated MA course at University of Hyderabad in June 2018.
+* Achieved 99 percent grade in DATA FOR EFFECTIVE POLICY MAKING, a course of study offered by IDB x Inter-American Development Bank (Banque interamericaine de developpement)
+* Secured Gold medal in INDIAN NATIONAL APTITUDE TALENT SEARCH OLYMPIAD - FINAL LEVEL in 2016.
+
+
+# Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
