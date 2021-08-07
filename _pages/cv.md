@@ -11,9 +11,9 @@ redirect_from:
 
 # Education
 <hr />
-  ## University of Hyderabad
-   Integrated MA, Economics _2023_
-    * Dissertation: 
+## University of Hyderabad
+Integrated MA, Economics _2023_
+  * Dissertation: 
 <hr />
 <br />
 <br />
