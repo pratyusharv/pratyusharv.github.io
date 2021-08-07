@@ -15,8 +15,7 @@ redirect_from:
 Integrated MA, Economics _2023_
   * Dissertation: 
 <hr />
-<br />
-<br />
+
 # Skills  
 ## Technical:
 * Python
