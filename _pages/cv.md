@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<iframe src="/files/paper1.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 <hr />
+<iframe src="/files/paper1.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
+<!--
 # Education
 ## University of Hyderabad
   Integrated MA in Economics (2023) <br>
