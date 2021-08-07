@@ -10,10 +10,14 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* Integrated M.A. in Economics, University of Hyderabad, 2023
-
+<hr />
+  ## University of Hyderabad
+   Integrated MA, Economics _2023_
+    * Dissertation: 
+<hr />
+<br />
+<br />
 # Skills  
-
 ## Technical:
 * Python
 * Tableau
