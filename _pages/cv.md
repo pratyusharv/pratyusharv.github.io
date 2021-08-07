@@ -14,7 +14,7 @@ redirect_from:
 ## University of Hyderabad
   Integrated MA in Economics (2023) <br>
   * Dissertation: 
-<br />
+<hr />
 
 # Skills
 ## Technical:
@@ -32,7 +32,7 @@ redirect_from:
 * Telugu
 * Hindi
 * English
-<br/>
+<hr/>
 
 # Work Experience  
 ## Sakonsa:
@@ -52,34 +52,34 @@ April 2021 - June 2021, Visakhapatnam, Andhra Pradesh
   loans from commercial banks to provide short term business loans and loans for financial exigencies to and Self Help Group members.
     
 ## District Rural Development Agency:
-November 2020 - February 2021, _Visakhapatnam, Andhra Pradesh_
+November 2020 - February 2021, Visakhapatnam, Andhra Pradesh
 * Compiled reports and provided administrative and assistance for the implementation of different **Pension Schemes** for transgender community, unmarried or divorced single       women, widows, fishermen, weavers, disabled and senior citizens.
 * Drafted notes, policy briefs and prepared presentations for meetings regarding the implementation of **Rural Retail Chain**
   scheme of Andhra Pradesh Government which provides a marketing platforms for products made by Self help group members.
-<br />
+<hr />
 
 # Positions of Responsibility
 ## Global Action Ambassador:
-_January, 2019 - January, 2020_ <br>
+January, 2019 - January, 2020
 * Undertook advocacy responsibilities as part of this status awarded by Studec International and Youth Now (Partner
   of UN habitat) at Global Goals Summit in Kuala Lumpur, Malaysia on 22nd January, 2019.Trained a team and
   conducted awareness sessions about UN sustainable development goals in government schools and low-cost private schools.
  
 ## Content Writer for UoH Student's Union:
-_September, 2018 - February, 2019_ <br>
+September, 2018 - February, 2019
 * Researched and wrote content for informative posters for Students’ Union at University of Hyderabad on various  
   political and administrative issues pertaining to campus life and in general.
 
-## Teaching Volunteer at eVidyaloka
- _Academic Year 2020 - 2021_ <br>
+## Teaching Volunteer at eVidyaloka:
+ Academic Year 2020 - 2021
  * Taught English to government school students from rural areas on Skype during the pandemic year as a volunteer at
   eVidyaloka, an educational social enterprise working towards improving the quality of education in remote and rural
   villages of India.
 
-### Teaching Volunteer at Turn the Bus
- _Present_ <br>
+## Teaching Volunteer at Turn the Bus:
+Present
 * Developing videos on economics and history for underprivileged high school students in the state of Bihar.
- <br />
+ <hr />
 
 # Scholastic Achievements:
 * Been awarded partial scholarship to pursue a dual degree at Asia Pacific University, Malaysia and Staffordshire
@@ -87,7 +87,7 @@ _September, 2018 - February, 2019_ <br>
 * Secured all India rank of 26 in entrance examination for Integrated MA course at University of Hyderabad in June 2018.
 * Achieved 99 percent grade in **Data for Effective Policy Making**, a course of study offered by IDB x Inter-American Development Bank (Banque interamericaine de developpement)
 * Secured Gold medal in **Indian National Aptitude Talent Search Olympiad - Final Level** in 2016.
-
+<hr />
 
 # Publications
   <ul>{% for post in site.publications %}
