@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 <hr />
+
 # Education
 ## University of Hyderabad
-  Integrated MA in Economics &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 2023
-    * Dissertation: 
+  Integrated MA in Economics (2023) <br>
+  * Dissertation: 
 <br />
+
 # Skills
 ## Technical:
 * Python
@@ -31,42 +33,41 @@ redirect_from:
 * Hindi
 * English
 <br/>
+
 # Work Experience  
 ## Sakonsa:
-  July 2021 - Present, _Remote_
-    * Working with a team of legal and economic interns to author a data-driven research paper on the impact of 
-    ”Protection of Children from Sexual Offences (POCSO) Act, 2012”.
-    * Currently preparing literature reviews of existing research and analyzing the pattern of POCSO cases to identify 
-    gaps in research.
+July 2021 - Present, Remote
+* Working with a team of legal and economic interns to author a data-driven research paper on the impact of
+  ”Protection of Children from Sexual Offences (POCSO) Act, 2012”.
+* Currently preparing literature reviews of existing research and analyzing the pattern of POCSO cases to identify 
+  gaps in research.
 
 ## Society for Elimination of Rural Poverty:
-  April 2021 - June 2021, _Visakhapatnam, Andhra Pradesh_
-  * Prepared questionnaire for field surveys conducted for impact assessment of **Bank Linkage** scheme of Andhra 
-    Pradesh Government which enables Self Help Group members get access to low interest loans and empowers
-    them to pursue income generating activities.
-  * Prepared briefs for weekly meetings by developing insights from cleaning large data sets on excel regarding the  
-    implementation of activities of **Stree Nidhi** program of Andhra Pradesh Government which includes rising  
-    loans from commercial banks to provide short term business loans and loans for financial exigencies to and Self Help Group members.
+April 2021 - June 2021, Visakhapatnam, Andhra Pradesh
+* Prepared questionnaire for field surveys conducted for impact assessment of **Bank Linkage** scheme of Andhra 
+  Pradesh Government which enables Self Help Group members get access to low interest loans and empowers
+  them to pursue income generating activities.
+* Prepared briefs for weekly meetings by developing insights from cleaning large data sets on excel regarding the  
+  implementation of activities of **Stree Nidhi** program of Andhra Pradesh Government which includes rising 
+  loans from commercial banks to provide short term business loans and loans for financial exigencies to and Self Help Group members.
     
 ## District Rural Development Agency:
-  November 2020 - February 2021, _Visakhapatnam, Andhra Pradesh_
-  * Compiled reports and provided administrative and assistance for the implementation of different **Pension  
-    Schemes** for transgender community, unmarried or divorced single women, widows, fishermen, weavers, disabled  
-    and senior citizens
-  * Drafted notes, policy briefs and prepared presentations for meetings regarding the implementation of **Rural Retail Chain**
-    scheme of Andhra Pradesh Government which provides a marketing platforms for products  
-    made by Self help group members.
+November 2020 - February 2021, _Visakhapatnam, Andhra Pradesh_
+* Compiled reports and provided administrative and assistance for the implementation of different **Pension Schemes** for transgender community, unmarried or divorced single       women, widows, fishermen, weavers, disabled and senior citizens.
+* Drafted notes, policy briefs and prepared presentations for meetings regarding the implementation of **Rural Retail Chain**
+  scheme of Andhra Pradesh Government which provides a marketing platforms for products made by Self help group members.
 <br />
+
 # Positions of Responsibility
 ## Global Action Ambassador:
-  _January, 2019 - January, 2020_ <br>
-  * Undertook advocacy responsibilities as part of this status awarded by Studec International and Youth Now (Partner
+_January, 2019 - January, 2020_ <br>
+* Undertook advocacy responsibilities as part of this status awarded by Studec International and Youth Now (Partner
   of UN habitat) at Global Goals Summit in Kuala Lumpur, Malaysia on 22nd January, 2019.Trained a team and
   conducted awareness sessions about UN sustainable development goals in government schools and low-cost private schools.
  
 ## Content Writer for UoH Student's Union:
- _September, 2018 - February, 2019_ <br>
- * Researched and wrote content for informative posters for Students’ Union at University of Hyderabad on various  
+_September, 2018 - February, 2019_ <br>
+* Researched and wrote content for informative posters for Students’ Union at University of Hyderabad on various  
   political and administrative issues pertaining to campus life and in general.
 
 ## Teaching Volunteer at eVidyaloka
@@ -77,7 +78,7 @@ redirect_from:
 
 ### Teaching Volunteer at Turn the Bus
  _Present_ <br>
- * Developing videos on economics and history for underprivileged high school students in the state of Bihar.
+* Developing videos on economics and history for underprivileged high school students in the state of Bihar.
  <br />
 
 # Scholastic Achievements:
