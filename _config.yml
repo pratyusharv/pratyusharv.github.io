@@ -14,7 +14,7 @@ name                     : &name "Pratyusha Valluru"
 description              : &description "Economics Student"
 url                      : https://tdk711.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tdk711/tdk711.github.io"
+repository               : "pratyusharv/pratyusharv.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,10 +84,10 @@ author:
   name             : "Pratyusha Valluru"
   avatar           : "profile.png"
   bio              : "Economics Student"
-  location         : "Visakhaptnam, India"
+  location         : "Hyderabad, India"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=lL2_yaYAAAAJ"
   email            : "pratyusha.valluru04@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tdk711"
+  github           : "pratyusharv"
   google_plus      :
   keybase          :
   instagram        :
