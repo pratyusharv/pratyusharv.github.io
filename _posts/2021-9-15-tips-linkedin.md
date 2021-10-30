@@ -1,6 +1,6 @@
 ---
 title: 'Few Tips for Upcoming Researchers'
-date: 2021-10-29
+date: 2021-9-15
 permalink: /posts/tips-linkedin/
 tags:
   - tips
