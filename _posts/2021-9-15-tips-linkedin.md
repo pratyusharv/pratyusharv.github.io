@@ -6,4 +6,4 @@ tags:
   - tips
   - linkedin
 ---
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6843762174977019904" height="1433" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6843762174977019904" height="1500" width="650" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
