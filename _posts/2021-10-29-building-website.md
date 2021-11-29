@@ -3,7 +3,7 @@ title: 'How I Built my Website'
 date: 2021-10-29
 permalink: /posts/building-website/
 header:
-  teaser: /images/posts/building/github.png
+  teaser: '/images/posts/building/github.png'
 tags:
   - coding
   - personal website
