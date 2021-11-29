@@ -36,16 +36,18 @@ In this tutorial, I assume you're familiar with the very basics of coding and Gi
     After the template has been forked into your account, the repo will now read **yourusername/academicpages.github.io**. To make your website show up, you have to change the repo's name. To change the name, first go to **Settings**.
     
     | ![settings](/images/posts/building/settings.png) |
-    |:---:|
+    |:--:|
     | _This will take you to the Settings_ |
 
     The name option will show up right in front. Change the name of the repo to **yourusername.github.io**.
+    
     | ![name](/images/posts/building/name.png) |
-    |:---:|
+    |:--:|
     | _Edit the text box_ |
 
 4. ### Going Live:
     After changing your name, open **Settings** again. However, this time, go to the **Pages** section.
+    
     | ![pages](/images/posts/building/pages.png) |
     |:---:|
     | _Open the drop-down menu_ |
@@ -57,6 +59,7 @@ In this tutorial, I assume you're familiar with the very basics of coding and Gi
 ### Customizing:
 4. ### Cofiguration File:
     The configuration file _\_config.yml_ contains all the basic details about your wesbite. It is present in the root directory of your repo. Open it and start editing it. 
+    
     | ![config](/images/posts/building/config.png) |
     |:---:|
     | _Click on the Pencil button to edit_ |
