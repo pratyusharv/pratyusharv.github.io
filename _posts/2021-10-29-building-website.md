@@ -28,24 +28,24 @@ In this tutorial, I assume you're familiar with the very basics of coding and Gi
 2. #### Adding the Template to your GitHub:
     The template I've used is [Academic Pages](https://academicpages.github.io/). You have to **fork** the template repo in order to add it to your profile for modification. Go to this [link](https://github.com/academicpages/academicpages.github.io) and click on the fork button on the top right. 
 
-    | ![fork](Images/fork.png) |
+    | ![fork](/images/posts/building/fork.png) |
     |:--:| 
     | _Click on the highlighted button_ |
 
 3. #### Changing the Repo Name:
     After the template has been forked into your account, the repo will now read **yourusername/academicpages.github.io**. To make your website show up, you have to change the repo's name. To change the name, first go to **Settings**.
-    | ![settings](Images/settings.png) |
+    | ![settings](/images/posts/building/settings.png) |
     | :---: |
     | _This will take you to the Settings_ |
 
     The name option will show up right in front. Change the name of the repo to **yourusername.github.io**.
-    | ![name](Images/name.png) |
+    | ![name](/images/posts/building/name.png) |
     | :---: |
     | _Edit the text box_ |
 
 4. #### Going Live:
     After changing your name, open **Settings** again. However, this time, go to the **Pages** section.
-    | ![pages](Images/pages.png) |
+    | ![pages](/images/posts/building/pages.png) |
     | :---: |
 
     Change **Branch** to **Master** and leave the folder option as **root**. Then click save. You should see a prompt informing you that your site has been successfully published.   
@@ -54,7 +54,7 @@ In this tutorial, I assume you're familiar with the very basics of coding and Gi
 ### Customizing:
 4. #### Cofiguration File:
     The configuration file _\_config.yml_ contains all the basic details about your wesbite. It is present in the root directory of your repo. Open it and start editing it. 
-    | ![config](Images/config.png) |
+    | ![config](/images/posts/building/config.png) |
     | :---: |
     | _Click on the Pencil button to edit_ |
 
